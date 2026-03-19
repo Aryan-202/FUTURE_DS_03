@@ -1,1 +1,8 @@
 .vscode
+
+.env*
+
+!.env.example
+
+data/
+
